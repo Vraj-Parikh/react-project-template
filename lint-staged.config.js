@@ -4,5 +4,5 @@
  */
 
 export default {
-    '*.ts': ['npm run lint:fix', 'npm run format:fix']
+    '*': ['npm run lint:fix', 'npm run format:fix']
 }

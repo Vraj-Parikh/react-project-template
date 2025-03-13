@@ -1,10 +1,10 @@
 {
-  "endOfLine": "crlf",
-  "semi": false,
-  "trailingComma": "none",
-  "tabWidth": 4,
-  "printWidth": 80,
-  "singleAttributePerLine": true,
-  "singleQuote": true,
-  "jsxSingleQuote": true
+    "endOfLine": "crlf",
+    "semi": false,
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "printWidth": 80,
+    "singleAttributePerLine": true,
+    "singleQuote": true,
+    "jsxSingleQuote": true
 }
